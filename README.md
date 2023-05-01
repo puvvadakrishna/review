@@ -1,6 +1,6 @@
 # review
 
-Config: An Executed be thread pool is created to make the logger calls, lightweight considering the heavy usage
+Config: An Executor thread pool is created to make the logger calls, lightweight considering the heavy usage
  
 All the logger methods has be enhance to accept Object(support any primitive/user-defined datatype)
 
